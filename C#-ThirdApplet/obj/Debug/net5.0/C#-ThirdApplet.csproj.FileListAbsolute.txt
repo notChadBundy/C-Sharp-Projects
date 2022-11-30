@@ -1,0 +1,16 @@
+C:\Users\CHAD\Visual-Studio-Project\C#-ThirdApplet\bin\Debug\net5.0\C#-ThirdApplet.exe
+C:\Users\CHAD\Visual-Studio-Project\C#-ThirdApplet\bin\Debug\net5.0\C#-ThirdApplet.deps.json
+C:\Users\CHAD\Visual-Studio-Project\C#-ThirdApplet\bin\Debug\net5.0\C#-ThirdApplet.runtimeconfig.json
+C:\Users\CHAD\Visual-Studio-Project\C#-ThirdApplet\bin\Debug\net5.0\C#-ThirdApplet.runtimeconfig.dev.json
+C:\Users\CHAD\Visual-Studio-Project\C#-ThirdApplet\bin\Debug\net5.0\C#-ThirdApplet.dll
+C:\Users\CHAD\Visual-Studio-Project\C#-ThirdApplet\bin\Debug\net5.0\ref\C#-ThirdApplet.dll
+C:\Users\CHAD\Visual-Studio-Project\C#-ThirdApplet\bin\Debug\net5.0\C#-ThirdApplet.pdb
+C:\Users\CHAD\Visual-Studio-Project\C#-ThirdApplet\obj\Debug\net5.0\C#-ThirdApplet.csprojAssemblyReference.cache
+C:\Users\CHAD\Visual-Studio-Project\C#-ThirdApplet\obj\Debug\net5.0\C#-ThirdApplet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHAD\Visual-Studio-Project\C#-ThirdApplet\obj\Debug\net5.0\C#-ThirdApplet.AssemblyInfoInputs.cache
+C:\Users\CHAD\Visual-Studio-Project\C#-ThirdApplet\obj\Debug\net5.0\C#-ThirdApplet.AssemblyInfo.cs
+C:\Users\CHAD\Visual-Studio-Project\C#-ThirdApplet\obj\Debug\net5.0\C#-ThirdApplet.csproj.CoreCompileInputs.cache
+C:\Users\CHAD\Visual-Studio-Project\C#-ThirdApplet\obj\Debug\net5.0\C#-ThirdApplet.dll
+C:\Users\CHAD\Visual-Studio-Project\C#-ThirdApplet\obj\Debug\net5.0\ref\C#-ThirdApplet.dll
+C:\Users\CHAD\Visual-Studio-Project\C#-ThirdApplet\obj\Debug\net5.0\C#-ThirdApplet.pdb
+C:\Users\CHAD\Visual-Studio-Project\C#-ThirdApplet\obj\Debug\net5.0\C#-ThirdApplet.genruntimeconfig.cache

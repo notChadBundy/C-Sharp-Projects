@@ -1,0 +1,5 @@
+C:\Users\CHAD\Visual-Studio-Project\C#-TenthApplet\obj\Debug\net5.0\C#-TenthApplet.csprojAssemblyReference.cache
+C:\Users\CHAD\Visual-Studio-Project\C#-TenthApplet\obj\Debug\net5.0\C#-TenthApplet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHAD\Visual-Studio-Project\C#-TenthApplet\obj\Debug\net5.0\C#-TenthApplet.AssemblyInfoInputs.cache
+C:\Users\CHAD\Visual-Studio-Project\C#-TenthApplet\obj\Debug\net5.0\C#-TenthApplet.AssemblyInfo.cs
+C:\Users\CHAD\Visual-Studio-Project\C#-TenthApplet\obj\Debug\net5.0\C#-TenthApplet.csproj.CoreCompileInputs.cache

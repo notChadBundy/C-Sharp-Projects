@@ -1,0 +1,16 @@
+C:\Users\CHAD\ProgrammingProjects\Visual-Studio-Project\C#\C#-Exam16\bin\Debug\net5.0\C#-Exam16.exe
+C:\Users\CHAD\ProgrammingProjects\Visual-Studio-Project\C#\C#-Exam16\bin\Debug\net5.0\C#-Exam16.deps.json
+C:\Users\CHAD\ProgrammingProjects\Visual-Studio-Project\C#\C#-Exam16\bin\Debug\net5.0\C#-Exam16.runtimeconfig.json
+C:\Users\CHAD\ProgrammingProjects\Visual-Studio-Project\C#\C#-Exam16\bin\Debug\net5.0\C#-Exam16.runtimeconfig.dev.json
+C:\Users\CHAD\ProgrammingProjects\Visual-Studio-Project\C#\C#-Exam16\bin\Debug\net5.0\C#-Exam16.dll
+C:\Users\CHAD\ProgrammingProjects\Visual-Studio-Project\C#\C#-Exam16\bin\Debug\net5.0\ref\C#-Exam16.dll
+C:\Users\CHAD\ProgrammingProjects\Visual-Studio-Project\C#\C#-Exam16\bin\Debug\net5.0\C#-Exam16.pdb
+C:\Users\CHAD\ProgrammingProjects\Visual-Studio-Project\C#\C#-Exam16\obj\Debug\net5.0\C#-Exam16.csprojAssemblyReference.cache
+C:\Users\CHAD\ProgrammingProjects\Visual-Studio-Project\C#\C#-Exam16\obj\Debug\net5.0\C#-Exam16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHAD\ProgrammingProjects\Visual-Studio-Project\C#\C#-Exam16\obj\Debug\net5.0\C#-Exam16.AssemblyInfoInputs.cache
+C:\Users\CHAD\ProgrammingProjects\Visual-Studio-Project\C#\C#-Exam16\obj\Debug\net5.0\C#-Exam16.AssemblyInfo.cs
+C:\Users\CHAD\ProgrammingProjects\Visual-Studio-Project\C#\C#-Exam16\obj\Debug\net5.0\C#-Exam16.csproj.CoreCompileInputs.cache
+C:\Users\CHAD\ProgrammingProjects\Visual-Studio-Project\C#\C#-Exam16\obj\Debug\net5.0\C#-Exam16.dll
+C:\Users\CHAD\ProgrammingProjects\Visual-Studio-Project\C#\C#-Exam16\obj\Debug\net5.0\ref\C#-Exam16.dll
+C:\Users\CHAD\ProgrammingProjects\Visual-Studio-Project\C#\C#-Exam16\obj\Debug\net5.0\C#-Exam16.pdb
+C:\Users\CHAD\ProgrammingProjects\Visual-Studio-Project\C#\C#-Exam16\obj\Debug\net5.0\C#-Exam16.genruntimeconfig.cache

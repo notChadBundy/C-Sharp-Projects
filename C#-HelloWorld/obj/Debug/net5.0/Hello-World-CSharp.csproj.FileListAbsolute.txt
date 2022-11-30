@@ -1,0 +1,16 @@
+C:\Users\CHAD\Visual-Studio-Project\Hello-World-CSharp\bin\Debug\net5.0\Hello-World-CSharp.exe
+C:\Users\CHAD\Visual-Studio-Project\Hello-World-CSharp\bin\Debug\net5.0\Hello-World-CSharp.deps.json
+C:\Users\CHAD\Visual-Studio-Project\Hello-World-CSharp\bin\Debug\net5.0\Hello-World-CSharp.runtimeconfig.json
+C:\Users\CHAD\Visual-Studio-Project\Hello-World-CSharp\bin\Debug\net5.0\Hello-World-CSharp.runtimeconfig.dev.json
+C:\Users\CHAD\Visual-Studio-Project\Hello-World-CSharp\bin\Debug\net5.0\Hello-World-CSharp.dll
+C:\Users\CHAD\Visual-Studio-Project\Hello-World-CSharp\bin\Debug\net5.0\ref\Hello-World-CSharp.dll
+C:\Users\CHAD\Visual-Studio-Project\Hello-World-CSharp\bin\Debug\net5.0\Hello-World-CSharp.pdb
+C:\Users\CHAD\Visual-Studio-Project\Hello-World-CSharp\obj\Debug\net5.0\Hello-World-CSharp.csprojAssemblyReference.cache
+C:\Users\CHAD\Visual-Studio-Project\Hello-World-CSharp\obj\Debug\net5.0\Hello-World-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHAD\Visual-Studio-Project\Hello-World-CSharp\obj\Debug\net5.0\Hello-World-CSharp.AssemblyInfoInputs.cache
+C:\Users\CHAD\Visual-Studio-Project\Hello-World-CSharp\obj\Debug\net5.0\Hello-World-CSharp.AssemblyInfo.cs
+C:\Users\CHAD\Visual-Studio-Project\Hello-World-CSharp\obj\Debug\net5.0\Hello-World-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\CHAD\Visual-Studio-Project\Hello-World-CSharp\obj\Debug\net5.0\Hello-World-CSharp.dll
+C:\Users\CHAD\Visual-Studio-Project\Hello-World-CSharp\obj\Debug\net5.0\ref\Hello-World-CSharp.dll
+C:\Users\CHAD\Visual-Studio-Project\Hello-World-CSharp\obj\Debug\net5.0\Hello-World-CSharp.pdb
+C:\Users\CHAD\Visual-Studio-Project\Hello-World-CSharp\obj\Debug\net5.0\Hello-World-CSharp.genruntimeconfig.cache

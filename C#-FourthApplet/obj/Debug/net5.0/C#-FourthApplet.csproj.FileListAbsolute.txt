@@ -1,0 +1,16 @@
+C:\Users\CHAD\Visual-Studio-Project\C#-FourthApplet\bin\Debug\net5.0\C#-FourthApplet.exe
+C:\Users\CHAD\Visual-Studio-Project\C#-FourthApplet\bin\Debug\net5.0\C#-FourthApplet.deps.json
+C:\Users\CHAD\Visual-Studio-Project\C#-FourthApplet\bin\Debug\net5.0\C#-FourthApplet.runtimeconfig.json
+C:\Users\CHAD\Visual-Studio-Project\C#-FourthApplet\bin\Debug\net5.0\C#-FourthApplet.runtimeconfig.dev.json
+C:\Users\CHAD\Visual-Studio-Project\C#-FourthApplet\bin\Debug\net5.0\C#-FourthApplet.dll
+C:\Users\CHAD\Visual-Studio-Project\C#-FourthApplet\bin\Debug\net5.0\ref\C#-FourthApplet.dll
+C:\Users\CHAD\Visual-Studio-Project\C#-FourthApplet\bin\Debug\net5.0\C#-FourthApplet.pdb
+C:\Users\CHAD\Visual-Studio-Project\C#-FourthApplet\obj\Debug\net5.0\C#-FourthApplet.csprojAssemblyReference.cache
+C:\Users\CHAD\Visual-Studio-Project\C#-FourthApplet\obj\Debug\net5.0\C#-FourthApplet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHAD\Visual-Studio-Project\C#-FourthApplet\obj\Debug\net5.0\C#-FourthApplet.AssemblyInfoInputs.cache
+C:\Users\CHAD\Visual-Studio-Project\C#-FourthApplet\obj\Debug\net5.0\C#-FourthApplet.AssemblyInfo.cs
+C:\Users\CHAD\Visual-Studio-Project\C#-FourthApplet\obj\Debug\net5.0\C#-FourthApplet.csproj.CoreCompileInputs.cache
+C:\Users\CHAD\Visual-Studio-Project\C#-FourthApplet\obj\Debug\net5.0\C#-FourthApplet.dll
+C:\Users\CHAD\Visual-Studio-Project\C#-FourthApplet\obj\Debug\net5.0\ref\C#-FourthApplet.dll
+C:\Users\CHAD\Visual-Studio-Project\C#-FourthApplet\obj\Debug\net5.0\C#-FourthApplet.pdb
+C:\Users\CHAD\Visual-Studio-Project\C#-FourthApplet\obj\Debug\net5.0\C#-FourthApplet.genruntimeconfig.cache

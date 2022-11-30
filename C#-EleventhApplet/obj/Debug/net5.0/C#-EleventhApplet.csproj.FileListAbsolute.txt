@@ -1,0 +1,16 @@
+C:\Users\CHAD\Visual-Studio-Project\C#-EleventhApplet\bin\Debug\net5.0\C#-EleventhApplet.exe
+C:\Users\CHAD\Visual-Studio-Project\C#-EleventhApplet\bin\Debug\net5.0\C#-EleventhApplet.deps.json
+C:\Users\CHAD\Visual-Studio-Project\C#-EleventhApplet\bin\Debug\net5.0\C#-EleventhApplet.runtimeconfig.json
+C:\Users\CHAD\Visual-Studio-Project\C#-EleventhApplet\bin\Debug\net5.0\C#-EleventhApplet.runtimeconfig.dev.json
+C:\Users\CHAD\Visual-Studio-Project\C#-EleventhApplet\bin\Debug\net5.0\C#-EleventhApplet.dll
+C:\Users\CHAD\Visual-Studio-Project\C#-EleventhApplet\bin\Debug\net5.0\ref\C#-EleventhApplet.dll
+C:\Users\CHAD\Visual-Studio-Project\C#-EleventhApplet\bin\Debug\net5.0\C#-EleventhApplet.pdb
+C:\Users\CHAD\Visual-Studio-Project\C#-EleventhApplet\obj\Debug\net5.0\C#-EleventhApplet.csprojAssemblyReference.cache
+C:\Users\CHAD\Visual-Studio-Project\C#-EleventhApplet\obj\Debug\net5.0\C#-EleventhApplet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHAD\Visual-Studio-Project\C#-EleventhApplet\obj\Debug\net5.0\C#-EleventhApplet.AssemblyInfoInputs.cache
+C:\Users\CHAD\Visual-Studio-Project\C#-EleventhApplet\obj\Debug\net5.0\C#-EleventhApplet.AssemblyInfo.cs
+C:\Users\CHAD\Visual-Studio-Project\C#-EleventhApplet\obj\Debug\net5.0\C#-EleventhApplet.csproj.CoreCompileInputs.cache
+C:\Users\CHAD\Visual-Studio-Project\C#-EleventhApplet\obj\Debug\net5.0\C#-EleventhApplet.dll
+C:\Users\CHAD\Visual-Studio-Project\C#-EleventhApplet\obj\Debug\net5.0\ref\C#-EleventhApplet.dll
+C:\Users\CHAD\Visual-Studio-Project\C#-EleventhApplet\obj\Debug\net5.0\C#-EleventhApplet.pdb
+C:\Users\CHAD\Visual-Studio-Project\C#-EleventhApplet\obj\Debug\net5.0\C#-EleventhApplet.genruntimeconfig.cache
